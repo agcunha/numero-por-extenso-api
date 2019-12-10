@@ -1,0 +1,31 @@
+{
+  "name": "numero-por-extenso",
+  "version": "1.0.6",
+  "description": "Escreve números por extenso, números normais, monetários e porcentagens.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agcunha/numero-por-extenso.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Lenon Bordini",
+  "keywords": [
+    "numero",
+    "extenso",
+    "numero por extenso",
+    "escrever numero",
+    "monetario",
+    "porcentagem",
+    "escrever numero monetario"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^5.1.1"
+  },
+  "comments": {
+    "repository": "Código com fork mostrando reuso de componente com correção de bug"
+  }
+}
